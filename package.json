@@ -2,6 +2,9 @@
   "name": "batch-image-download",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "download": "bun run index.ts"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
